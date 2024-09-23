@@ -1,0 +1,13 @@
+# ninja log v6
+10	347	7487980353282327	CMakeFiles/AddressBook.dir/main.cpp.obj	e2a118acc670ac2d
+17	493	7487567015864746	CMakeFiles/AddressBook.dir/PrintMenu.cpp.obj	73ee5acbc3f8e70f
+250	326	7487980982244537	AddressBook.exe	e09a11c9582c2257
+3	280	7487963576678080	CMakeFiles/AddressBook.dir/DeletePerson.cpp.obj	e42ad16ce5cf250d
+4	302	7487603359058840	CMakeFiles/AddressBook.dir/AddPerson.cpp.obj	65f13bf786286bc9
+10	378	7487960104743768	CMakeFiles/AddressBook.dir/Isexist.cpp.obj	efd25cb9279ff623
+4	278	7487970671329562	CMakeFiles/AddressBook.dir/PrintPerson.cpp.obj	1e9067eff8f9ffdb
+4	249	7487980979797254	CMakeFiles/AddressBook.dir/Find.cpp.obj	dba75b84be2613be
+5	334	7487980353221374	CMakeFiles/AddressBook.dir/Change.cpp.obj	541e964aeec2de13
+5	270	7487983029262537	CMakeFiles/AddressBook.dir/DeleteAll.cpp.obj	6b58588cf21c55e6
+9	297	7487983029302527	CMakeFiles/AddressBook.dir/main.cpp.obj	e2a118acc670ac2d
+297	373	7487983032182230	AddressBook.exe	8fbb1c8c8c93f231

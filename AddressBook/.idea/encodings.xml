@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/AddPerson.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Change.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/DeletePerson.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Find.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/PrintMenu.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/PrintPerson.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/main.cpp" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
