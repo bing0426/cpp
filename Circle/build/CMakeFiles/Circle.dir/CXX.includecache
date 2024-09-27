@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/workspaces/cpp/Circle/circle/Circle.cpp
+Circle.h
+/workspaces/cpp/Circle/circle/Circle.h
+
+/workspaces/cpp/Circle/circle/Circle.h
+Point.h
+/workspaces/cpp/Circle/circle/Point.h
+iostream
+-
+
+/workspaces/cpp/Circle/circle/Point.cpp
+Point.h
+/workspaces/cpp/Circle/circle/Point.h
+
+/workspaces/cpp/Circle/circle/Point.h
+
+/workspaces/cpp/Circle/circle/main.cpp
+iostream
+-
+Point.h
+/workspaces/cpp/Circle/circle/Point.h
+Circle.h
+/workspaces/cpp/Circle/circle/Circle.h
+
